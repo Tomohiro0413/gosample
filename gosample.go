@@ -16,7 +16,7 @@ type Person struct {
 	memo string
 }
 
-func main (){
+func main(){
 	person := &Person{
 		ID:1,
 		Name:"Gopher",
